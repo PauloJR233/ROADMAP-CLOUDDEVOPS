@@ -117,8 +117,8 @@ Meu nome é **Paulo Augusto**, e este repositório registra meu compromisso em c
 
 # 📬 Contato
 
-- **Email:** *(adicione aqui)*  
-- **LinkedIn:** *(adicione se tiver)*  
+- **Email:
+- **LinkedIn: 
 
 ---
 
